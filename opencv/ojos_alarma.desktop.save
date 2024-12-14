@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Mi Programa Python
+Comment=Ejecuta mi script Python
+Exec=/home/pi/mis_scripts/mi_programa.py  # Ajusta la ruta a tu script
+Icon=/usr/share/icons/gnome/scalable/apps/python.svg  # Puedes cambiar el icono
+Type=Application
+Categories=Application;Development

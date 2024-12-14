@@ -1,0 +1,7 @@
+ktop Entry]
+Name=Mi Programa Python
+Comment=Ejecuta mi script Python
+Exec=/home/user/Documents/opencv/ojos_alarma.py  # Ajusta la ruta a tu script
+#Icon=/usr/share/icons/gnome/scalable/apps/python.svg  # Puedes cambiar el icono
+Type=Application
+Categories=Application;Development;
